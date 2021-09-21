@@ -35,7 +35,7 @@
 
   Or install with pip:
 
-  `pip install --editable=git+`
+  `pip install --editable=git+https://github.com/collinbarraugh/bioinformatics_coding_task.git`
 
   If you edit the .yml file with new packages to install, just use:
 
