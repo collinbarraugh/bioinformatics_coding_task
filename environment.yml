@@ -1,0 +1,10 @@
+name: bioinformatics_task
+dependencies: #conda dependencies
+  - python=3.7
+  - pip
+  - matplotlib
+  - pandas
+  - numpy
+  - ipykernel
+  - pip: #pip dependencies
+    - pytest
